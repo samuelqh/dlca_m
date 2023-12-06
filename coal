@@ -1,9 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T10:28:27.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.1.5" etag="d49NyaIDD0_sqO2uK-5B" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T15:50:52.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="N2Pv5qsujQZlfkjWqHax" version="22.1.5" type="github">
   <diagram name="Page-1" id="1W6AYCwCtD9yS29hvBVa">
-    <mxGraphModel>
+    <mxGraphModel dx="2014" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVYjZ8NQ0GmlVk1v9RHQ-1" target="qVYjZ8NQ0GmlVk1v9RHQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-1" value="Coal mining (Extraction)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVYjZ8NQ0GmlVk1v9RHQ-2" target="qVYjZ8NQ0GmlVk1v9RHQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-2" value="Boiler and Steam generation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVYjZ8NQ0GmlVk1v9RHQ-4" target="qVYjZ8NQ0GmlVk1v9RHQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-4" value="Turbine" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVYjZ8NQ0GmlVk1v9RHQ-6" target="qVYjZ8NQ0GmlVk1v9RHQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-6" value="Transformation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVYjZ8NQ0GmlVk1v9RHQ-8" target="qVYjZ8NQ0GmlVk1v9RHQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-8" value="Distribution" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-12" value="1 kWh" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="10" y="210" width="1000" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVYjZ8NQ0GmlVk1v9RHQ-16" target="qVYjZ8NQ0GmlVk1v9RHQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-16" value="Stakehorlders&lt;br&gt;Workers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVYjZ8NQ0GmlVk1v9RHQ-17" target="qVYjZ8NQ0GmlVk1v9RHQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-17" value="Stakehorlders&lt;br&gt;Local comunities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qVYjZ8NQ0GmlVk1v9RHQ-20" target="qVYjZ8NQ0GmlVk1v9RHQ-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559.9999999999998" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-20" value="Safe and healty living conditions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="483" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qVYjZ8NQ0GmlVk1v9RHQ-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-22" value="Freedom of association and collective bargaining" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="480" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVYjZ8NQ0GmlVk1v9RHQ-28" target="qVYjZ8NQ0GmlVk1v9RHQ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-28" value="Healt and&amp;nbsp; safety" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="530" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVYjZ8NQ0GmlVk1v9RHQ-30" target="qVYjZ8NQ0GmlVk1v9RHQ-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="529.9999999999998" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-30" value="Community engagement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="540" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVYjZ8NQ0GmlVk1v9RHQ-31" target="qVYjZ8NQ0GmlVk1v9RHQ-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="739.9999999999998" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-31" value="Local emproyment&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="600" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-32" value="&lt;br&gt;Secure living condition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="660" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-38" value="Management effort to minimize use of hazardous&lt;br&gt;substances&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="468" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-40" value="Organizational support (volunteer-hours or&lt;br/&gt;financial) for community initiatives" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="550" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-42" value="Percentage of workforce hired locally&lt;br&gt;Percentage of spending on locally-based suppliers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="620" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-43" value="Number/percentage of injuries or fatal accidents&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;in the organization by job qualification inside the&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;company" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="625" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-46" value="Presence of unions within the organization is&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;adequately supported (availability of facilities to&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;union, posting of union notices, time to exercise&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;the representation functions on paid work hours)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Check the availability of collective bargaining&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;agreement and meeting minutes&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Employee/union representatives are invited to&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;contribute to planning of larger changes in the&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;company, which will affect the working conditions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="860" width="580" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-47" value="FU: Production of 1kWh of electricity from coal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qVYjZ8NQ0GmlVk1v9RHQ-48" value="Product utility:&lt;br&gt;electriciy access to people" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
